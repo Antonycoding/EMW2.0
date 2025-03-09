@@ -62,7 +62,7 @@ Material:
     - _refractionspeed: 0.1
     - _strength: 2.09
     m_Colors:
-    - _deepwater: {r: 0.3430045, g: 0.6124834, b: 0.7735849, a: 0.49411765}
+    - _deepwater: {r: 0.34300447, g: 0.6124834, b: 0.7735849, a: 0.47843137}
     - _foamcolor: {r: 1, g: 1, b: 1, a: 0.9019608}
-    - _shallowwater: {r: 0.37647057, g: 0.7132971, b: 0.9529411, a: 0.8117647}
+    - _shallowwater: {r: 0.3764705, g: 0.7132971, b: 0.9529411, a: 0.75686276}
   m_BuildTextureStacks: []
